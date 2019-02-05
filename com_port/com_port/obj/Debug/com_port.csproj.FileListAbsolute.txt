@@ -1,0 +1,30 @@
+c:\users\arman_pc\documents\visual studio 2012\Projects\com_port\com_port\bin\Debug\com_port.exe.config
+c:\users\arman_pc\documents\visual studio 2012\Projects\com_port\com_port\bin\Debug\com_port.exe
+c:\users\arman_pc\documents\visual studio 2012\Projects\com_port\com_port\bin\Debug\com_port.pdb
+c:\users\arman_pc\documents\visual studio 2012\Projects\com_port\com_port\obj\Debug\com_port.csprojResolveAssemblyReference.cache
+c:\users\arman_pc\documents\visual studio 2012\Projects\com_port\com_port\obj\Debug\com_port.Form1.resources
+c:\users\arman_pc\documents\visual studio 2012\Projects\com_port\com_port\obj\Debug\com_port.Properties.Resources.resources
+c:\users\arman_pc\documents\visual studio 2012\Projects\com_port\com_port\obj\Debug\com_port.csproj.GenerateResource.Cache
+c:\users\arman_pc\documents\visual studio 2012\Projects\com_port\com_port\obj\Debug\com_port.exe
+c:\users\arman_pc\documents\visual studio 2012\Projects\com_port\com_port\obj\Debug\com_port.pdb
+D:\arman\work\Visual Studio 2012\Projects\com_port\com_port\bin\Debug\com_port.exe.config
+D:\arman\work\Visual Studio 2012\Projects\com_port\com_port\obj\Debug\com_port.exe
+D:\arman\work\Visual Studio 2012\Projects\com_port\com_port\obj\Debug\com_port.pdb
+D:\work\Visual Studio 2012\Projects\com_port\com_port\bin\Debug\com_port.exe.config
+D:\work\Visual Studio 2012\Projects\com_port\com_port\obj\Debug\com_port.exe
+D:\work\Visual Studio 2012\Projects\com_port\com_port\obj\Debug\com_port.pdb
+D:\work\Visual Studio 2012\Projects\com_port\com_port\bin\Debug\com_port.exe
+D:\work\Visual Studio 2012\Projects\com_port\com_port\bin\Debug\com_port.pdb
+D:\work\Visual Studio 2012\Projects\com_port\com_port\obj\Debug\com_port.csprojResolveAssemblyReference.cache
+D:\work\Visual Studio 2012\Projects\com_port\com_port\obj\Debug\com_port.Form1.resources
+D:\work\Visual Studio 2012\Projects\com_port\com_port\obj\Debug\com_port.Properties.Resources.resources
+D:\work\Visual Studio 2012\Projects\com_port\com_port\obj\Debug\com_port.csproj.GenerateResource.Cache
+C:\Users\Talgat\Downloads\com_port\com_port\bin\Debug\com_port.exe.config
+C:\Users\Talgat\Downloads\com_port\com_port\obj\Debug\com_port.exe
+C:\Users\Talgat\Downloads\com_port\com_port\obj\Debug\com_port.pdb
+C:\Users\Talgat\Downloads\com_port\com_port\obj\Debug\com_port.csprojResolveAssemblyReference.cache
+C:\Users\Talgat\Downloads\com_port\com_port\obj\Debug\com_port.Form1.resources
+C:\Users\Talgat\Downloads\com_port\com_port\obj\Debug\com_port.Properties.Resources.resources
+C:\Users\Talgat\Downloads\com_port\com_port\obj\Debug\com_port.csproj.GenerateResource.Cache
+C:\Users\Talgat\Downloads\com_port\com_port\bin\Debug\com_port.exe
+C:\Users\Talgat\Downloads\com_port\com_port\bin\Debug\com_port.pdb

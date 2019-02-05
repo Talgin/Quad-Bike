@@ -1,0 +1,21 @@
+C:\Users\Talgat\Downloads\com_port\com_port\bin\Release\com_port.exe.config
+C:\Users\Talgat\Downloads\com_port\com_port\bin\Release\com_port.exe
+C:\Users\Talgat\Downloads\com_port\com_port\bin\Release\com_port.pdb
+C:\Users\Talgat\Downloads\com_port\com_port\obj\Release\com_port.csprojResolveAssemblyReference.cache
+C:\Users\Talgat\Downloads\com_port\com_port\obj\Release\com_port.Form1.resources
+C:\Users\Talgat\Downloads\com_port\com_port\obj\Release\com_port.Properties.Resources.resources
+C:\Users\Talgat\Downloads\com_port\com_port\obj\Release\com_port.csproj.GenerateResource.Cache
+C:\Users\Talgat\Downloads\com_port\com_port\obj\Release\com_port.exe
+C:\Users\Talgat\Downloads\com_port\com_port\obj\Release\com_port.pdb
+C:\Users\Серик\Desktop\Joystick and Quadro\com_port\com_port\bin\Release\com_port.exe.config
+C:\Users\Серик\Desktop\Joystick and Quadro\com_port\com_port\obj\Release\com_port.exe
+C:\Users\Серик\Desktop\Joystick and Quadro\com_port\com_port\obj\Release\com_port.pdb
+C:\Users\Серик\Desktop\Joystick and Quadro\com_port\com_port\bin\Release\com_port.exe
+C:\Users\Серик\Desktop\Joystick and Quadro\com_port\com_port\bin\Release\com_port.pdb
+C:\Users\Серик\Desktop\Joystick and Quadro\com_port\com_port\obj\Release\com_port.csprojResolveAssemblyReference.cache
+C:\Users\Серик\Desktop\Joystick and Quadro\com_port\com_port\obj\Release\com_port.Form1.resources
+C:\Users\Серик\Desktop\Joystick and Quadro\com_port\com_port\obj\Release\com_port.Properties.Resources.resources
+C:\Users\Серик\Desktop\Joystick and Quadro\com_port\com_port\obj\Release\com_port.csproj.GenerateResource.Cache
+E:\Projects\Joystick and Quadro\com_port\com_port\bin\Release\com_port.exe.config
+E:\Projects\Joystick and Quadro\com_port\com_port\obj\Release\com_port.exe
+E:\Projects\Joystick and Quadro\com_port\com_port\obj\Release\com_port.pdb
